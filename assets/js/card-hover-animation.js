@@ -4,7 +4,7 @@ function handleMouseEnter() {
 }
 
 function handleMouseLeave() {
-    this.classList.remove('s-card-hovered');
+    this.classList.remove('s-card--hovered');
 }
 
 function addEventListenersToCards() {
