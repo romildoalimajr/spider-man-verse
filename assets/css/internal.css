@@ -25,6 +25,7 @@
     left: 0;
     top: 0;
 }
+
 .s-wrapper .s-main-content{
     width: 100%;
     height: 100%;
@@ -75,11 +76,11 @@
     background-size: cover;
 }
 .s-spiderman-01-02{
-    background-image: url('../images/spiderman-tom/movie-01/background.png');
+    background-image: url('../images/spiderman-tom/movie-02/background.png');
     background-size: cover;
 }
-.s-spiderman-01-02{
-    background-image: url('../images/spiderman-andrew/movie-01/background.png');
+.s-spiderman-01-03{
+    background-image: url('../images/spiderman-andrew/movie-03/background.png');
     background-size: cover;
 }
 
