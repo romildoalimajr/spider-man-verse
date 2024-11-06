@@ -66,6 +66,18 @@
     display: flex;
     flex-direction: row;
 }
+.s-spiderman-01-01{
+    background-image: url('../images/spiderman-tobey/movie-01/background.png');
+    background-size: cover;
+}
+.s-spiderman-01-02{
+    background-image: url('../images/spiderman-tom/movie-01/background.png');
+    background-size: cover;
+}
+.s-spiderman-01-02{
+    background-image: url('../images/spiderman-andrew/movie-01/background.png');
+    background-size: cover;
+}
 
 
 
